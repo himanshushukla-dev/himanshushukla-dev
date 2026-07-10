@@ -11,6 +11,8 @@ I am an aspiring Software Engineer and currently pursuing my **B.Tech in Compute
 ### 🌐 Connect with me:
 - **LinkedIn:** https://www.linkedin.com/in/himanshu-shukla-ab564a420/
 - **Email:** himanshushukla0018@gmail.com
+- ### 🏆 Certifications
+- **C# (Basic)** - Verified by HackerRank (July 2026) | [Verify Here](https://www.hackerrank.com/certificates/iframe/20c14be35109)
 
 ---
 *"The best way to predict the future is to invent it."*
